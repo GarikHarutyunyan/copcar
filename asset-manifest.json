@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/copcar/static/css/main.073c9b0a.css",
+    "main.js": "/copcar/static/js/main.fcc1d912.js",
+    "static/js/787.ce57ee0d.chunk.js": "/copcar/static/js/787.ce57ee0d.chunk.js",
+    "index.html": "/copcar/index.html",
+    "main.073c9b0a.css.map": "/copcar/static/css/main.073c9b0a.css.map",
+    "main.fcc1d912.js.map": "/copcar/static/js/main.fcc1d912.js.map",
+    "787.ce57ee0d.chunk.js.map": "/copcar/static/js/787.ce57ee0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fcc1d912.js"
+  ]
+}
