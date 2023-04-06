@@ -1,6 +1,7 @@
 {
   "name": "copcar",
   "version": "0.1.0",
+  "homepage": "https://garikharutyunyan.github.io/copcar",
   "private": true,
   "proxy": "https://www.copart.com",
   "dependencies": {
@@ -23,7 +24,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -44,6 +47,7 @@
     ]
   },
   "devDependencies": {
-    "@types/js-cookie": "^3.0.3"
+    "@types/js-cookie": "^3.0.3",
+    "gh-pages": "^5.0.0"
   }
 }
